@@ -1,4 +1,4 @@
-# utopia-router
+# utopia-route
 
 ## Example
 
