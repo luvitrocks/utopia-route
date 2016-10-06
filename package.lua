@@ -1,6 +1,6 @@
 return {
   name = "voronianski/utopia-route",
-  version = "1.0.0",
+  version = "1.0.1",
   description = "Simple route middleware for Utopia",
   tags = { "utopia", "server", "framework", "route", "router" },
   license = "MIT",
@@ -8,7 +8,7 @@ return {
   homepage = "https://github.com/utopia-route",
   dependencies = {
     'voronianski/http-methods',
-    'voronianski/utopia-route'
+    'voronianski/match-path'
   },
   files = {
     "**.lua",
